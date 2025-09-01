@@ -1,4 +1,4 @@
-# Netflix1_dashboard
+### Netflix1_dashboard
 
 # Netflix Movies and Shows Analysis Dashboard
 This repository contains a Power BI dashboard that analyzes a dataset of Netflix movies and shows. The project demonstrates a complete data analysis workflow, from cleaning and transformation to creating an interactive and insightful dashboard.
